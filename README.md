@@ -1,3 +1,3 @@
 # My-personal-site
 
-My personal site designed by me. Work in progres...
+My personal site designed by me.
